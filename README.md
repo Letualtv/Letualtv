@@ -2,10 +2,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=letualtv&color=blue" alt="Profile Views" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/letualtv?style=social" alt="GitHub Followers" />
 </p>
 
----
+
 
 ## 💡 Sobre mí  
 🎯 **Desarrollador Full Stack** con experiencia en **PHP (Laravel)** y **JavaScript (Vue.js, React)**.  
@@ -41,7 +42,7 @@
 
 ### 💻 **Front-end**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind" height="50"/>
 </p>
 
 ### ⚙️ **Back-end**  
@@ -51,12 +52,12 @@
 
 ### 🗄 **Bases de datos**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase," height="50"/>
 </p>
 
 ### 🌍 **Otros lenguajes que manejo**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,java,react" height="50"/>
 </p>
 
 ### 🚀 **Herramientas y DevOps**  
@@ -89,13 +90,13 @@
 ## 📊 Estadísticas de GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letualtv&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letualtv&layout=compact&theme=radical" height="160"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=letualtv&theme=transparent" height="auto"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=letualtv&theme=transparent&exclude=HTML" height="auto"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letualtv&theme=radical" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letualtv&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letualtv&theme=transparent" height="auto" width="700"/>
 </p>
 
 ---
