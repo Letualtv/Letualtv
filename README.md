@@ -5,10 +5,6 @@
   <img src="https://img.shields.io/github/followers/letualtv?style=social" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/letualtv/letualtv/main/banner.png" alt="Antonio Pulido | Full Stack Developer"/>
-</p>
-
 ---
 
 ## 💡 Sobre mí  
