@@ -54,6 +54,11 @@
   <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" height="50"/>
 </p>
 
+### 🌍 **Otros lenguajes que manejo**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" height="50"/>
+</p>
+
 ### 🚀 **Herramientas y DevOps**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,postman" height="50"/>
@@ -90,6 +95,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=letualtv&theme=radical" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letualtv&theme=radical" height="160"/>
 </p>
 
 ---
