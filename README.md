@@ -1,7 +1,6 @@
 # 🚀 Antonio Pulido | Desarrollador Full Stack  
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=letualtv&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/letualtv?style=social)  
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=letualtv&color=blue)  ![GitHub Followers](https://img.shields.io/github/followers/letualtv?style=social)  
 
 ---
 
