@@ -21,7 +21,7 @@
 ## 🏆 Experiencia Profesional  
 
 ### 🔹 **Desarrollador Full Stack | IESA - CSIC** *(2024 - Actualidad)*  
-✅ Optimización de encuestas sociales, reduciendo tiempos de carga en un **40%**.  
+✅ Desarrollo de un sistema de **creación de encuestas sociales** con envio masivo de emails, recopilación y análisis.  
 ✅ Backend en **PHP (Laravel)** con bases de datos **MySQL** altamente escalables.  
 ✅ Implementación de **Vue.js** para mejorar interactividad y experiencia de usuario.  
 
