@@ -9,13 +9,14 @@
 </p>
 
 <p align="center">
-  <strong>Desarrollador web freelance · Laravel & Vue.js · Córdoba, España</strong><br/>
-  Webs, tiendas online y aplicaciones a medida para negocios de toda España y el extranjero.
+  <strong>Full Stack Developer · IA & Automatización · Builder</strong><br/>
+  Construyo productos digitales con IA aplicada, de principio a fin y con ownership completo.
 </p>
 
 <p align="center">
   <a href="https://antoniopulido.dev">🌐 antoniopulido.dev</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/antoniopulidof">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.malt.es/profile/antoniopulidofernandez">🟠 Malt</a> &nbsp;·&nbsp;
   <a href="mailto:hola@antoniopulido.dev">✉️ hola@antoniopulido.dev</a>
 </p>
 
@@ -23,15 +24,19 @@
 
 ## Sobre mí
 
-Desarrollador web freelance con base en Córdoba y clientes en España 
-y en el extranjero. He programado en producción real para el Consejo 
-Superior de Investigaciones Científicas (CSIC), construyendo sistemas 
-que usan más de 17.000 personas.
+Desarrollador Full Stack especializado en IA y automatización, 
+con base en Córdoba y clientes en España y el extranjero. 
+He programado en producción real para el CSIC, con sistemas 
+usados por más de 17.000 personas.
 
-Antes de dedicarme al desarrollo gestioné negocios reales en 
-hostelería, inmobiliaria y retail. Eso me permite construir 
-herramientas digitales que resuelven problemas reales, no solo 
-que quedan bonitas.
+Fundador de **[Bahiga](https://bahiga.es)**, plataforma SaaS 
+de automatización con IA para pymes: chatbots inteligentes, 
+clasificación de email, procesamiento de gastos por WhatsApp 
+e integraciones con Claude API y WhatsApp Business.
+
+Uso Claude Code y Cursor como aceleradores, no como muletas. 
+Construyo productos de principio a fin, con ownership completo 
+desde la arquitectura hasta el despliegue.
 
 **Presupuesto sin compromiso en menos de 24 horas.**
 
@@ -39,39 +44,50 @@ que quedan bonitas.
 
 ## Qué puedo hacer por ti
 
-- **Webs profesionales** para negocios locales y empresas
-- **Tiendas online** con WooCommerce o Laravel
-- **Aplicaciones a medida** — CRMs, paneles de gestión, sistemas internos
-- **Landing pages** para eventos, bodas, campañas y lanzamientos
-- **Maquetación pixel-perfect** desde Figma o bocetos
-- **Identidad de marca** — naming, logotipo y paleta de colores
-- **Arreglo de bugs** y mejoras en proyectos existentes
-- **Mantenimiento web** sin contratos de permanencia
+- **Agentes y chatbots con IA** para empresas
+- **Automatización** de email, facturas y procesos
+- **SaaS multi-tenant** desde cero
+- **Webs profesionales** y tiendas online
+- **Aplicaciones a medida** — CRMs y paneles de gestión
+- **Integraciones** entre herramientas y APIs
 - **SEO local** y posicionamiento en Google
 
 ---
 
 ## Experiencia
 
-**Desarrollador Full Stack · IESA - CSIC** *(2024 – 2026)*
-Modernización del sistema de gestión de encuestas sociales para el 
-mayor organismo de investigación público de España. Sistema que 
-procesa datos de más de 17.000 encuestados y da servicio a 50 
-usuarios internos simultáneos. Arquitectura completa en Laravel, 
-API REST, MySQL con Eloquent ORM e interfaces dinámicas con Vue.js.
+**Desarrollador Full Stack & AI Builder · AP.DEV** *(mayo 2026 – actualidad)*  
+Freelance especializado en IA aplicada y automatización. Fundador de Bahiga, 
+SaaS multi-tenant con Claude API, WhatsApp Business y flujos de automatización 
+para pymes. Proyectos full stack end-to-end con Laravel, Vue.js y Tailwind.
 
-**Desarrollador Web · Fundación MEDAC** *(2024)*
-Desarrollo full stack en proyectos reales: landing pages, 
-autenticación con AWS y Firebase, plataforma web con integración 
-de gráficos 3D para proyecto de odontología.
+**Desarrollador Full Stack · IESA - CSIC** *(2024 – 2026)*  
+Modernización del sistema de gestión de encuestas sociales para el mayor 
+organismo de investigación público de España. Sistema que procesa datos de 
+más de 17.000 encuestados y da servicio a 50 usuarios internos. Arquitectura 
+completa en Laravel, API REST, MySQL y Vue.js. Desplegado en dos servidores 
+de producción con CI/CD via GitHub Actions.
+
+**Desarrollador Web · Fundación MEDAC** *(2024)*  
+Desarrollo full stack en proyectos reales: landing pages, autenticación 
+con AWS y Firebase, plataforma web con integración de gráficos 3D.
 
 ---
 
 ## Stack
 
+### IA & Automatización
+<p>
+  <img src="https://img.shields.io/badge/Claude%20API-D97706?style=flat&logo=anthropic&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Google%20Vision%20API-4285F4?style=flat&logo=google&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6366f1?style=flat" height="28"/>
+</p>
+
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,astro" height="45"/>
 </p>
 
 ### Backend
@@ -81,17 +97,12 @@ de gráficos 3D para proyecto de odontología.
 
 ### Bases de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,redis" height="45"/>
 </p>
 
-### Herramientas
+### DevOps & Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,vite" height="45"/>
-</p>
-
-### También trabajo con
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,react,bootstrap" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vite,figma" height="45"/>
 </p>
 
 ---
@@ -100,11 +111,10 @@ de gráficos 3D para proyecto de odontología.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Sistema de encuestas CSIC](https://antoniopulido.dev) | Plataforma de gestión de encuestas sociales a nivel nacional. Proyecto real en producción. | Laravel · Vue.js · MySQL |
-| [CRM simple](https://antoniopulido.dev) | Panel de gestión de clientes con roles, filtros y exportación. | Laravel · Vue.js · MySQL |
-| [Landing restaurante](https://github.com/letualtv/restaurante-web) | Landing con menú digital, reservas y carga ultrarrápida. | HTML · Tailwind · JS |
-| [Web bancaria](https://github.com/letualtv/web-bancaria) | Dashboard financiero con autenticación segura. | Laravel · Vue.js |
-| [Directorio empresarial](https://github.com/letualtv/directorio-empresas) | Plataforma para negocios locales con búsqueda y filtros. | Laravel · MySQL |
+| [Bahiga](https://bahiga.es) | SaaS de automatización con IA para pymes. Multi-tenant, chatbots, WhatsApp Business, Claude API. En producción. | Laravel · Vue.js · MySQL · Claude API |
+| [antoniopulido.dev](https://antoniopulido.dev) | Portfolio freelance. Dark mode, i18n ES/EN, SEO optimizado, desplegado en Vercel. | Vue 3 · Vite · Tailwind |
+| [ABRIL · IESA-CSIC](https://antoniopulido.dev) | Plataforma de encuestas sociales para investigación. 17.000+ usuarios en producción. PHP puro, sin framework, dos servidores. | PHP · MySQL · GitHub Actions |
+| [League of Arena](https://github.com/letualtv/league-of-arena) | Stats tracker para League of Legends Arena mode. | Vue.js · Riot API |
 
 ---
 
@@ -128,10 +138,11 @@ de gráficos 3D para proyecto de odontología.
 🌐 **[antoniopulido.dev](https://antoniopulido.dev)**  
 ✉️ **[hola@antoniopulido.dev](mailto:hola@antoniopulido.dev)**  
 💼 **[linkedin.com/in/antoniopulidof](https://linkedin.com/in/antoniopulidof)**  
-🟠 **[Malt](https://www.malt.es/profile/antoniopulido)**  
+🟠 **[Malt](https://www.malt.es/profile/antoniopulidofernandez)**  
+📅 **[Reserva una llamada](https://calendly.com/antonio-pulido-dev/30min)**  
 
 ---
 
 <p align="center">
-  <em>Desarrollo web freelance · Córdoba, España · Trabajo remoto worldwide</em>
+  <em>Full Stack Developer · IA & Automatización · Córdoba, España · Trabajo remoto worldwide</em>
 </p>
