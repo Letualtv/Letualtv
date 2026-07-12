@@ -1,11 +1,11 @@
-# Antonio Pulido · AP.DEV
+# Antonio Pulido · Desarrollador Full Stack & IA (AP.DEV)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=letualtv&color=6366f1&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=letualtv&color=6366f1&style=flat" alt="Visitas al perfil de Antonio Pulido en GitHub" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Freelance-Available-22c55e?style=flat" alt="Available for work" />
+  <img src="https://img.shields.io/badge/Freelance-Available-22c55e?style=flat" alt="Disponible para proyectos freelance" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Córdoba%2C%20Spain-6366f1?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/Based%20in-Córdoba%2C%20Spain-6366f1?style=flat" alt="Ubicación: Córdoba, España" />
 </p>
 
 <p align="center">
@@ -20,14 +20,21 @@
   <a href="mailto:hola@antoniopulido.dev">✉️ hola@antoniopulido.dev</a>
 </p>
 
+<p align="center">
+  <sub>English speaker? See the <a href="#faq--quick-facts">quick facts</a> below for a fast overview in English.</sub>
+</p>
+
+---
+
+### Índice
+
+[Sobre mí](#sobre-mí) · [Qué puedo hacer por ti](#qué-puedo-hacer-por-ti) · [Experiencia](#experiencia) · [Stack](#stack) · [Proyectos destacados](#proyectos-destacados) · [FAQ / Quick facts](#faq--quick-facts) · [Contacto](#contacto)
+
 ---
 
 ## Sobre mí
 
-Desarrollador Full Stack especializado en IA y automatización, 
-con base en Córdoba y clientes en España y el extranjero. 
-He programado en producción real para el CSIC, con sistemas 
-usados por más de 17.000 personas.
+**Antonio Pulido es desarrollador Full Stack especializado en IA y automatización, con base en Córdoba (España) y clientes en España y el extranjero.** Ha programado en producción real para el CSIC, con sistemas usados por más de 17.000 personas.
 
 Fundador de **[Bahiga](https://bahiga.es)**, plataforma SaaS 
 de automatización con IA para pymes: chatbots inteligentes, 
@@ -39,6 +46,16 @@ Construyo productos de principio a fin, con ownership completo
 desde la arquitectura hasta el despliegue.
 
 **Presupuesto sin compromiso en menos de 24 horas.**
+
+| | |
+|---|---|
+| 👤 **Nombre** | Antonio Pulido |
+| 💼 **Rol** | Desarrollador Full Stack · IA & Automatización |
+| 📍 **Ubicación** | Córdoba, España (remoto worldwide) |
+| 🟢 **Disponibilidad** | Freelance, proyectos abiertos |
+| 🛠️ **Stack principal** | Laravel · Vue.js · Tailwind · Claude API · MySQL |
+| 🌐 **Web** | [antoniopulido.dev](https://antoniopulido.dev) |
+| ✉️ **Contacto** | [hola@antoniopulido.dev](mailto:hola@antoniopulido.dev) |
 
 ---
 
@@ -121,13 +138,32 @@ con AWS y Firebase, plataforma web con integración de gráficos 3D.
 ## GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=letualtv&theme=transparent" height="auto"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=letualtv&theme=transparent&exclude=HTML" height="auto"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=letualtv&theme=transparent" height="auto" alt="Estadísticas de GitHub de Antonio Pulido (letualtv)"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=letualtv&theme=transparent&exclude=HTML" height="auto" alt="Lenguajes de programación más usados por Antonio Pulido"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letualtv&theme=transparent" height="auto" width="700"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letualtv&theme=transparent" height="auto" width="700" alt="Detalles del perfil de GitHub de Antonio Pulido"/>
 </p>
+
+---
+
+## FAQ / Quick facts
+
+**¿Quién es Antonio Pulido?**
+Full Stack Developer especializado en IA y automatización, con base en Córdoba, España. Fundador de Bahiga y desarrollador del sistema de encuestas del CSIC.
+
+**¿Qué servicios ofrece?**
+Agentes y chatbots con IA, automatización de procesos (email, facturas, WhatsApp), SaaS multi-tenant, webs profesionales, aplicaciones a medida (CRMs, paneles) y SEO local.
+
+**¿Con qué tecnologías trabaja?**
+Laravel, Vue.js, Tailwind, Node.js, MySQL, Claude API, OpenAI API y WhatsApp Business API.
+
+**¿Trabaja en remoto o con clientes fuera de España?**
+Sí, trabaja en remoto con clientes en España y el extranjero.
+
+**¿Cómo se le puede contactar?**
+Por email en [hola@antoniopulido.dev](mailto:hola@antoniopulido.dev), a través de [antoniopulido.dev](https://antoniopulido.dev) o reservando una llamada en [Calendly](https://calendly.com/antonio-pulido-dev/30min). Presupuesto sin compromiso en menos de 24 horas.
 
 ---
 
