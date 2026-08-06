@@ -1,4 +1,4 @@
-# Antonio Pulido · Desarrollador Full Stack & IA (AP.DEV)
+# Antonio Pulido Fernández · Desarrollador Full Stack & IA — ANTONIOPULIDO.DEV
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=letualtv&color=6366f1&style=flat" alt="Visitas al perfil de Antonio Pulido en GitHub" />
@@ -34,7 +34,7 @@
 
 ## Sobre mí
 
-**Antonio Pulido es desarrollador Full Stack especializado en IA y automatización, con base en Córdoba (España) y clientes en España y el extranjero.** Ha programado en producción real para el CSIC, con sistemas usados por más de 17.000 personas.
+**Antonio Pulido Fernández es desarrollador Full Stack especializado en IA y automatización, con base en Córdoba (España) y clientes en España y el extranjero.** Ha programado en producción real para el CSIC, con sistemas usados por más de 17.000 personas.
 
 Fundador de **[Bahiga](https://bahiga.es)**, plataforma SaaS 
 de automatización con IA para pymes: chatbots inteligentes, 
@@ -49,7 +49,7 @@ desde la arquitectura hasta el despliegue.
 
 | | |
 |---|---|
-| 👤 **Nombre** | Antonio Pulido |
+| 👤 **Nombre** | Antonio Pulido Fernández |
 | 💼 **Rol** | Desarrollador Full Stack · IA & Automatización |
 | 📍 **Ubicación** | Córdoba, España (remoto worldwide) |
 | 🟢 **Disponibilidad** | Freelance, proyectos abiertos |
@@ -73,7 +73,7 @@ desde la arquitectura hasta el despliegue.
 
 ## Experiencia
 
-**Desarrollador Full Stack & AI Builder · AP.DEV** *(mayo 2026 – actualidad)*  
+**Desarrollador Full Stack & AI Builder · AP — ANTONIOPULIDO.DEV** *(mayo 2026 – actualidad)*  
 Freelance especializado en IA aplicada y automatización. Fundador de Bahiga, 
 SaaS multi-tenant con Claude API, WhatsApp Business y flujos de automatización 
 para pymes. Proyectos full stack end-to-end con Laravel, Vue.js y Tailwind.
@@ -131,7 +131,9 @@ con AWS y Firebase, plataforma web con integración de gráficos 3D.
 | [Bahiga](https://bahiga.es) | SaaS de automatización con IA para pymes. Multi-tenant, chatbots, WhatsApp Business, Claude API. En producción. | Laravel · Vue.js · MySQL · Claude API |
 | [antoniopulido.dev](https://antoniopulido.dev) | Portfolio freelance. Dark mode, i18n ES/EN, SEO optimizado, desplegado en Vercel. | Vue 3 · Vite · Tailwind |
 | [ABRIL · IESA-CSIC](https://antoniopulido.dev) | Plataforma de encuestas sociales para investigación. 17.000+ usuarios en producción. PHP puro, sin framework, dos servidores. | PHP · MySQL · GitHub Actions |
-| [League of Arena](https://github.com/letualtv/league-of-arena) | Stats tracker para League of Legends Arena mode. | Vue.js · Riot API |
+| [League of Arena](https://github.com/Letualtv/league-of-arena) | Tracker de victorias del modo Arena de League of Legends: logros, ranking e historial. Open source y self-hosted. | PHP · MySQL · Riot API |
+| [Autoescuela Subbética](https://github.com/Letualtv/autoescuela-landing) | Landing page profesional para autoescuela. Plantilla responsive lista para producción. [Demo](https://letualtv.github.io/autoescuela-landing/). | Vue 3 · Tailwind · Vite |
+| [Civic Stack CMS](https://github.com/Letualtv/civic-stack-cms) | CMS de gestión y transparencia para partidos políticos y agrupaciones ciudadanas. | Laravel 13 · PHP 8.3 · Tailwind |
 
 ---
 
@@ -150,8 +152,8 @@ con AWS y Firebase, plataforma web con integración de gráficos 3D.
 
 ## FAQ / Quick facts
 
-**¿Quién es Antonio Pulido?**
-Full Stack Developer especializado en IA y automatización, con base en Córdoba, España. Fundador de Bahiga y desarrollador del sistema de encuestas del CSIC.
+**¿Quién es Antonio Pulido Fernández?**
+Antonio Pulido Fernández es un desarrollador Full Stack especializado en IA y automatización, con base en Córdoba, España. Fundador de Bahiga y desarrollador del sistema de encuestas del CSIC. *(No confundir con otras personas de nombre similar: el desarrollador es Antonio Pulido **Fernández**.)*
 
 **¿Qué servicios ofrece?**
 Agentes y chatbots con IA, automatización de procesos (email, facturas, WhatsApp), SaaS multi-tenant, webs profesionales, aplicaciones a medida (CRMs, paneles) y SEO local.
