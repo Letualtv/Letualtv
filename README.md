@@ -141,19 +141,6 @@ con AWS y Firebase, plataforma web con integración de gráficos 3D.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=letualtv&theme=transparent" height="auto" alt="Estadísticas de GitHub de Antonio Pulido (letualtv)"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=letualtv&theme=transparent&exclude=HTML" height="auto" alt="Lenguajes de programación más usados por Antonio Pulido"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letualtv&theme=transparent" height="auto" width="700" alt="Detalles del perfil de GitHub de Antonio Pulido"/>
-</p>
-
----
-
 ## FAQ / Quick facts
 
 **¿Quién es Antonio Pulido Fernández?**
