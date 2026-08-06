@@ -39,7 +39,8 @@
 Fundador de **[Bahiga](https://bahiga.es)**, plataforma SaaS 
 de automatización con IA para pymes: chatbots inteligentes, 
 clasificación de email, procesamiento de gastos por WhatsApp 
-e integraciones con Claude API y WhatsApp Business.
+e integraciones con WhatsApp Business y con varios proveedores de IA
+(Mistral, Groq y OpenAI) mediante una arquitectura de fallback en cascada.
 
 Uso Claude Code y Cursor como aceleradores, no como muletas. 
 Construyo productos de principio a fin, con ownership completo 
@@ -53,7 +54,7 @@ desde la arquitectura hasta el despliegue.
 | 💼 **Rol** | Desarrollador Full Stack · IA & Automatización |
 | 📍 **Ubicación** | Córdoba, España (remoto worldwide) |
 | 🟢 **Disponibilidad** | Freelance, proyectos abiertos |
-| 🛠️ **Stack principal** | Laravel · Vue.js · Tailwind · Claude API · MySQL |
+| 🛠️ **Stack principal** | Laravel · Vue.js · Tailwind · Mistral / OpenAI API · MySQL |
 | 🌐 **Web** | [antoniopulido.dev](https://antoniopulido.dev) |
 | ✉️ **Contacto** | [hola@antoniopulido.dev](mailto:hola@antoniopulido.dev) |
 
@@ -75,8 +76,10 @@ desde la arquitectura hasta el despliegue.
 
 **Desarrollador Full Stack & AI Builder · AP — ANTONIOPULIDO.DEV** *(mayo 2026 – actualidad)*  
 Freelance especializado en IA aplicada y automatización. Fundador de Bahiga, 
-SaaS multi-tenant con Claude API, WhatsApp Business y flujos de automatización 
-para pymes. Proyectos full stack end-to-end con Laravel, Vue.js y Tailwind.
+SaaS multi-tenant con IA multi-proveedor (Mistral, Groq, OpenAI), WhatsApp Business 
+y flujos de automatización para pymes y administraciones públicas, con control de 
+coste por cliente y restricción de proveedores a la UE para el sector público. 
+Proyectos full stack end-to-end con Laravel, Vue.js y Tailwind.
 
 **Desarrollador Full Stack · IESA - CSIC** *(2024 – 2026)*  
 Modernización del sistema de gestión de encuestas sociales para el mayor 
@@ -95,8 +98,9 @@ con AWS y Firebase, plataforma web con integración de gráficos 3D.
 
 ### IA & Automatización
 <p>
-  <img src="https://img.shields.io/badge/Claude%20API-D97706?style=flat&logo=anthropic&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Mistral%20AI-FA520F?style=flat&logo=mistralai&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Google%20Vision%20API-4285F4?style=flat&logo=google&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-6366f1?style=flat" height="28"/>
@@ -128,7 +132,7 @@ con AWS y Firebase, plataforma web con integración de gráficos 3D.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Bahiga](https://bahiga.es) | SaaS de automatización con IA para pymes. Multi-tenant, chatbots, WhatsApp Business, Claude API. En producción. | Laravel · Vue.js · MySQL · Claude API |
+| [Bahiga](https://bahiga.es) | SaaS de automatización con IA para pymes y administraciones. Multi-tenant, chatbots, WhatsApp Business y fallback de IA en cascada con control de coste por cliente. En producción. | Laravel · Filament · Vue.js · MySQL · Mistral / Groq / OpenAI |
 | [antoniopulido.dev](https://antoniopulido.dev) | Portfolio freelance. Dark mode, i18n ES/EN, SEO optimizado, desplegado en Vercel. | Vue 3 · Vite · Tailwind |
 | [ABRIL · IESA-CSIC](https://antoniopulido.dev) | Plataforma de encuestas sociales para investigación. 17.000+ usuarios en producción. PHP puro, sin framework, dos servidores. | PHP · MySQL · GitHub Actions |
 | [League of Arena](https://github.com/Letualtv/league-of-arena) | Tracker de victorias del modo Arena de League of Legends: logros, ranking e historial. Open source y self-hosted. | PHP · MySQL · Riot API |
@@ -159,7 +163,7 @@ Antonio Pulido Fernández es un desarrollador Full Stack especializado en IA y a
 Agentes y chatbots con IA, automatización de procesos (email, facturas, WhatsApp), SaaS multi-tenant, webs profesionales, aplicaciones a medida (CRMs, paneles) y SEO local.
 
 **¿Con qué tecnologías trabaja?**
-Laravel, Vue.js, Tailwind, Node.js, MySQL, Claude API, OpenAI API y WhatsApp Business API.
+Laravel, Vue.js, Tailwind, Node.js, MySQL, Mistral AI, OpenAI API, Groq y WhatsApp Business API.
 
 **¿Trabaja en remoto o con clientes fuera de España?**
 Sí, trabaja en remoto con clientes en España y el extranjero.
