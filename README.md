@@ -29,6 +29,13 @@ Plataforma de encuestas para investigación social en PHP 8 sin framework, usada
 
 Técnico Superior en Desarrollo de Aplicaciones Web (DAW). Inglés B2 certificado (Aptis ESOL, British Council).
 
+## Trabajos recientes
+
+- **Agentes de voz y chat con IA** para un grupo de empresas de servicios financieros: identificación del cliente, gestiones según su estado en el CRM y cierre automático de la llamada. Retell, telefonía SIP y API REST.
+- **Importador automático para una inmobiliaria:** plugin de WordPress que sincroniza los inmuebles desde el feed XML del CRM, crea y actualiza fichas sin duplicados, descarga imágenes y retira lo que ya no está disponible.
+- **Tiendas online con WooCommerce:** pasarelas de pago (Redsys, Bizum), envíos, rendimiento y SEO.
+- **Habitual:** tarjeta de fidelización digital para comercios locales, con QR y NFC. PWA propia de Bahiga.
+
 ## Stack
 
 PHP 8 · Laravel · Vue.js · JavaScript · Tailwind CSS · Astro · MySQL · Redis · WordPress · WooCommerce · Claude API · OpenAI API · Mistral API · Retell · Git · GitHub Actions · Linux · Caddy · Hetzner
