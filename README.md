@@ -1,4 +1,4 @@
-# Antonio Pulido Fernández
+# Antonio Pulido
 
 Desarrollador full stack. Webs, tiendas online, aplicaciones a medida y automatización con IA para empresas, con mi agencia **[Bahiga](https://bahiga.es)**.
 
